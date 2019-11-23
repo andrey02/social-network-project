@@ -6,3 +6,11 @@ Projeto de rede social com chat anonimo e global.
 
 
 (Segue manual de instalação, requerimentos, api)
+
+# Requerimentos
+
+
+# Instalação
+
+
+# API
