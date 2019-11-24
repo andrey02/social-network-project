@@ -9,6 +9,10 @@ Projeto de rede social com chat anonimo e global.
 
 # Requerimentos
 
+Java 8
+Maven
+MySql
+Angular
 
 # Instalação
 
