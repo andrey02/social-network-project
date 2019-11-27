@@ -18,3 +18,9 @@ Angular
 
 
 # API
+
+
+# PLAN
+
+A ideia é desenvolver uma rede social com opção Fred de noticías e chat anônimo e global.
+Os detalhes serão melhores descritos ao longo dos dias.
